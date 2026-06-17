@@ -1,0 +1,663 @@
+Adélie
+Adelie 
+aerOS 
+Aeon 
+AerynOS 
+AerynOS_old 
+Afterglow 
+aix 
+Almalinux 
+Alpine 
+Alpine2 
+Alpine_small 
+alpine2_small 
+alpine3_small 
+Alter 
+ALTLinux 
+Amazon 
+Amazon Linux
+amzn 
+Amiga 
+AmogOS 
+Anarchy 
+android 
+android_small 
+anduinos 
+Antergos 
+antiX 
+AnushOS 
+Aosc OS/Retro
+aoscosretro 
+Aosc OS/Retro_small
+aoscosretro_small 
+Aosc OS
+aoscos 
+Aosc OS_old
+aoscos_old 
+Aperture 
+Apple 
+Apple_small 
+Apricity 
+ArchBox 
+Archcraft 
+Archcraft2 
+arch
+archmerge 
+arch2 
+arch3 
+arch_small 
+arch_old 
+ARCHlabs 
+ArchStrike 
+Arkane
+Arkane Linux 
+Armbian 
+Armbian2 
+artix 
+artix_small 
+artix2_small 
+arco
+arcolinux 
+arco_small
+arcolinux_small 
+arse
+arselinux
+arse-linux 
+Arya 
+asahi
+asahi-linux 
+asahi2
+asahi-linux2 
+aster 
+AsteroidOS 
+astOS 
+Astra
+Astra Linux
+astralinux 
+Ataraxia Linux
+Ataraxia 
+AthenaOS 
+AthenaOS_old 
+Aurora 
+AxOS 
+Azos 
+bedrock 
+bedrock_small 
+BigLinux 
+Bitrig 
+Blackarch 
+BlackMesa
+black-mesa 
+BlackPanther 
+BLAG 
+BlankOn 
+BlueLight 
+Bodhi 
+Bonsai 
+Bredos 
+BSD 
+BunsenLabs 
+CachyOS 
+CachyOS_small 
+Calculate 
+Calinix
+calinixos 
+Calinix_small
+calinixos_small 
+Carbs 
+CBL-Mariner 
+Cel
+celos
+cel-linux
+celos-linux 
+Center 
+CentOS 
+CentOS_small 
+Cereus
+Cereus Linux 
+Chakra 
+ChaletOS 
+Chapeau 
+Chimera 
+ChonkySealOS 
+Chrom
+ChromeOS 
+Cleanjaro 
+Cleanjaro_small 
+Clear Linux
+clearlinux
+Clear Linux OS 
+ClearOS 
+Clover 
+Cobalt 
+Codex Linux 
+Condres 
+ContainerLinux
+Container Linux
+Container Linux by CoreOS 
+common-torizon 
+Cosmic 
+CRUX 
+CRUX_small 
+Crystal
+Crystal
+crystal-linux
+Crystal-Linux 
+Cucumber
+CucumberOS 
+CuerdOS
+CuerdOS GNU/Linux 
+CutefishOS 
+CuteOS 
+CyberOS 
+cycledream 
+dahliaOS 
+DarkOS 
+Debian 
+Debian_small 
+Deepin 
+DesaOS 
+Devuan 
+Devuan_small 
+DietPi 
+DracOS 
+DragonFly 
+DragonFly_small 
+DragonFly_old 
+DraugerOS
+Drauger 
+Droidian 
+elbrus 
+Elementary 
+Elementary_small 
+Elive 
+Emmabuntus 
+Emperor 
+ENOS 
+EncryptOS 
+EndeavourOS 
+EndeavourOS_small 
+Endless 
+Enso 
+EshanizedOS 
+EuroLinux 
+EvolutionOS 
+EvolutionOS_small 
+EvolutionOS_old 
+eweOS 
+Exherbo 
+Exodia 
+Fastfetch
+FF 
+Fedora 
+fedora-asahi-remix 
+Fedora_small 
+Fedora2_small 
+Fedora_old 
+Fedora-Silverblue 
+Fedora-Kinoite 
+Fedora-Sericea 
+Fedora-CoreOS 
+FemboyOS 
+Feren 
+filotimo 
+Finnix 
+Floflis 
+Freebsd 
+freebsd_small 
+FreeMiNT 
+Frugalware
+frugalware-linux 
+Funtoo 
+Furreto 
+GalliumOS 
+Garuda
+garuda-linux 
+GarudaDragon
+garuda-dragon 
+Garuda_small
+garuda-linux_small 
+Gentoo 
+Gentoo_small 
+GhostBSD 
+GhostFreak 
+Glaucus 
+gNewSense 
+GNOME OS 
+GNU 
+GoboLinux
+Gobo 
+GoldenDog Linux
+GDL
+goldendoglinux 
+GrapheneOS 
+Grombyang 
+Guix 
+Guix_small 
+GXDE 
+Haiku 
+Haiku2 
+Haiku_small 
+HamoniKR 
+HarDClanZ 
+HardenedBSD 
+HarmonyOS 
+Hash 
+HeliumOS 
+Huawei Cloud EulerOS
+hce 
+Huayra 
+Hybrid 
+HydroOS 
+hypros 
+Hyperbola 
+Hyperbola_small 
+Iglunix
+Iglu 
+InstantOS 
+Interix 
+IRIX 
+Ironclad 
+Itc 
+januslinux
+janus 
+Kaisen 
+Kali 
+Kali_small 
+kalpa-desktop 
+KaOS 
+KernelOS 
+kdelinux
+kde-linux 
+KDE Neon 
+KibaOS 
+Kibojoe 
+KISS
+kiss-linux
+kisslinux 
+kiss2 
+Kogaion 
+Korora 
+KrassOS
+Krass 
+KSLinux 
+Kubuntu
+kubuntu-linux
+kde-ubuntu 
+Kylin 
+LainOS 
+langitketujuh
+l7 
+Laxeros 
+LEDE 
+LibreELEC 
+Lilidog 
+Lingmo
+LingmoOS 
+LimeOS 
+Linspire
+Lindows 
+Linux
+linux-generic 
+LinuxFromScratch
+lfs 
+Linux_small
+linux-generic_small 
+LinuxLite 
+LinuxLite_small 
+linuxmint 
+linuxmint_small 
+linuxmint2 
+linuxmint_old 
+Live Raizo
+Live_Raizo 
+LliureX 
+LMDE 
+locos
+loc-os
+Loc-OS Linux 
+lubuntu 
+Lunar 
+Macaroni 
+macOS 
+macOS_small 
+macOS2 
+macOS2_small 
+macOS3 
+MainsailOS 
+MainsailOS_small 
+Mageia 
+Mageia_small 
+Magix
+MagixOS 
+MagpieOS
+Magpie 
+mandriva
+mandrake 
+manjaro
+manjaro-arm 
+manjaro_small
+manjaro-arm_small 
+MassOS 
+MatuusOS
+Matuus 
+MaUI 
+Mauna 
+Meowix 
+Mer 
+MidnightBSD 
+MidOS 
+MidOS_old 
+Minimal_System 
+Minix 
+miraclelinux 
+MOS 
+Msys2 
+MX 
+MX_small 
+MX2 
+Namib 
+NebiOS 
+Nekos 
+Neptune 
+NetRunner 
+nexalinux 
+Nitrux 
+NixOS 
+NixOS_small 
+nixos_old 
+nixos_old_small 
+NetBSD 
+NetBSD2 
+NetBSD_small 
+nobara 
+nomadbsd 
+NurOS 
+Nurunner 
+NuTyX 
+NetHydra 
+Obarun 
+OBRevenge 
+ObsidianOS 
+OmniOS 
+openkylin
+open-kylin 
+openbsd 
+openbsd_small 
+OpenEuler 
+OpenIndiana 
+OpenMamba 
+openRuyi 
+OpenStage 
+opensuse 
+opensuse_small 
+opensuse-microos 
+opensuse-leap 
+opensuse-leap_old 
+opensuse-tumbleweed 
+opensuse-tumbleweed_small 
+opensuse-tumbleweed_old 
+opensuse-tumbleweed2 
+opensuse-slowroll
+opensuse-tumbleweed-slowroll 
+openmandriva
+open-mandriva
+open_mandriva
+openmandriva lx 
+openwrt 
+OPNsense 
+oracle
+oracle linux
+oracle linux server 
+orchid 
+orchid_small 
+Oreon 
+OS2Warp 
+OS Elbrus 
+OSMC
+Open Source Media Center 
+OSX 
+OSX_small 
+PacBSD 
+Panwah 
+parabola
+parabola-gnulinux 
+parabola_small
+parabola-gnulinux_small 
+Parch 
+Pardus 
+Parrot 
+Parsix 
+PCBSD
+TrueOS 
+PCLinuxOS 
+PearOS 
+Pengwin 
+Pentoo 
+Peppermint 
+Peropesis
+Peropesis Linux 
+PhyOS 
+PikaOS 
+PisiLinux 
+PNM Linux 
+pop
+popos 
+pop_small
+popos_small 
+Porteus 
+PostMarketOS 
+PostMarketOS_small 
+Proxmox
+pve 
+PuffOS 
+Puppy 
+PureOS 
+PureOS_small 
+PrismLinux 
+PrismLinux_small 
+qts 
+Q4OS 
+Qubes 
+Qubyt 
+Quibian 
+Quirinux 
+Radix 
+raspbian 
+raspbian_small 
+RavynOS 
+RebornOS 
+RebornOS_small 
+RedCore 
+rhel
+redhat 
+rhel_small
+redhat_small 
+rhel_old
+redhat_old 
+RedOS 
+RedOS_small 
+redstar
+redstar-os
+redstaros 
+Redrose 
+Refracta 
+Regata 
+Regolith 
+RhaymOS 
+rocky 
+rocky_small 
+rosa
+rosa-linux
+rosalinux 
+Rhino Linux 
+RengeOS 
+Sabayon 
+Sabotage 
+Sailfish 
+SalentOS 
+Salient OS
+SalientOS 
+Salix 
+SambaBOX
+Profelis SambaBOX 
+Sasanqua 
+Scientific 
+secureblue 
+Serpent OS 
+semc 
+Septor 
+Serene 
+SharkLinux 
+ShastraOS 
+Shebang 
+Siduction 
+SkiffOS 
+SleeperOS 
+SleeperOS_small 
+Slitaz 
+SpoinkOS
+spoink-os 
+Slackel 
+Slackware 
+Slackware_small 
+SmartOS 
+SnigdhaOS
+Snigdha 
+Soda 
+Source Mage
+Source Mage GNU/Linux
+source_mage
+sourcemage 
+solaris
+sunos 
+solaris_small
+sunos_small 
+Solus
+solus-linux 
+Sparky 
+Star 
+Stock Linux 
+SteamOS 
+SteamDeck 
+SteamDeck_small 
+SteamDeckOled 
+Sulin 
+SummitOS 
+suse
+suse-linux 
+suse_small
+suse-linux_small 
+Swagarch 
+T2
+T2 SDE
+T2/Linux 
+T2_small
+T2 SDE_small
+T2/Linux_small 
+Tails 
+Tatra 
+TeArch 
+TempleOS 
+TileOS 
+Torizon OS
+TorizonCore 
+Trisquel 
+TrueNAS-Scale 
+Tuxedo OS
+tuxedo 
+Twister 
+UBLinux 
+UBLinux_small 
+ubuntu
+ubuntu-linux 
+ubuntu_small
+ubuntu-linux_small 
+ubuntu_old
+ubuntu-linux_old 
+ubuntu_old2 
+ubuntu_old2_small
+ubuntu_old2_small 
+ubuntu budgie
+ubuntu-budgie 
+ubuntu cinnamon
+ubuntu-cinnamon 
+ubuntu gnome
+ubuntu-gnome 
+ubuntu kylin
+ubuntu-kylin 
+ubuntu mate
+ubuntu-mate 
+ubuntu studio
+ubuntu-studio 
+ubuntu sway
+ubuntu-sway 
+ubuntu touch
+ubuntu-touch 
+ubuntu unity
+ubuntu-unity 
+Ultramarine
+Ultramarine Linux 
+Ultramarine_small 
+Unifi 
+Univalent 
+Univention 
+UOS 
+UrukOS 
+uwuntu 
+Uzbek 
+Valhalla
+valhallaos
+valhalla-linux 
+vanilla 
+vanilla2 
+vanilla_small 
+Venom 
+Venom_small 
+VincentOS 
+Vnux 
+Vzlinux 
+void 
+void_small 
+void2 
+void2_small 
+WiiLinuxNgx
+WiiLinux
+Wii-Linux
+Wii Linux 
+Windows Server 2025 
+Windows 11
+Windows Server 2022 
+Windows 11_small 
+Windows 8
+Windows 8.1
+Windows 10
+Windows Server 2012
+Windows Server 2012 R2
+Windows Server 2016
+Windows Server 2019 
+Windows
+Windows 7
+Windows Server 2008
+Windows Server 2008 R2 
+Windows 95
+Windows 9x 
+WolfOS 
+XCP-ng
+xenenterprise 
+Xenia 
+Xenia_old 
+XeroArch 
+Xferience 
+Xubuntu 
+Xray_OS 
+Xinux 
+XJ380 
+Ximper 
+YiffOS 
+Zorin 
+z/OS
+zos 
+Zraxyl 
+
+Custom logos:

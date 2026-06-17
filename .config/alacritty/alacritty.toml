@@ -1,0 +1,46 @@
+# ----------------------------------------------------- #
+#             Alacritty (Terminal) Settings             #
+# ----------------------------------------------------- #
+
+# Configuration guide @ https://alacritty.org/config-alacritty.html 
+
+# Theme
+# theme selection @ github.com/alacritty/alacritty-theme
+# list of themes in themes/themes/{theme}.toml
+[general]
+import = [
+   "themes/themes/custom.toml"
+]
+
+# Window
+[window]
+opacity = 0.9
+padding = {
+   x = 2,
+   y = 0
+}
+dynamic_padding = true
+
+# Font
+# list of fonts displayed by fc-list
+
+[font]
+size = 12
+offset.x = 0  # letter spacing (default : 0)
+offset.y = 2  # line spacing   (default : 0)
+
+[font.bold]
+family = "Miracode"
+style = "Regular"
+
+[font.bold_italic]
+family = "Miracode"
+style = "Regular"
+
+[font.italic]
+family = "Miracode"
+style = "Regular"
+
+[font.normal]
+family = "Miracode"
+style = "Regular"
