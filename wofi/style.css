@@ -1,0 +1,22 @@
+@import '/home/JacobP/.cache/wal/colors-waybar.css';
+#window {
+  margin: 0px;
+  background-color: @background;
+  font-family: "Miracode";
+  font-size: 14px;
+}
+#input {
+  margin: 5px;
+  border: none;
+  color: @background;
+  border-radius: 10px;
+  padding: 8px;
+}
+#entry {
+  margin: 5px;
+  background-color: @color1;
+}
+#text {
+  margin: 5px;
+  color: @color6;
+}

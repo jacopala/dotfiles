@@ -1,0 +1,17 @@
+# config for Wofi menu for browsing executables
+
+# import colors from wal generated colors
+@import '~/.cache/wal/colors-waybar.css';
+
+# specifies desktop apps by default
+show = drun
+
+width=400
+height=500
+
+allow_images=true
+
+prompt=Close the world.
+
+normal_window=false
+
